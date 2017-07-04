@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+| Day                           |
+| ----------------------------- |
+| [Day 0](#day-0-july-4-2017)   |
+
 ### Day 0: July 4, 2017
 
 **Today's Progress**: Organizing the Beginning

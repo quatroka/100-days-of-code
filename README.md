@@ -1,4 +1,8 @@
-# I've joined the #100DaysOfCode Challenge.
+# #100DaysOfCode
+
+I've joined the #100DaysOfCode Challenge.
+
+![](https://media.giphy.com/media/srbiWWa0VW2YM/giphy.gif)
 
 ## Contents
 * [Rules](rules.md)
