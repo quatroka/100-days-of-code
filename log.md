@@ -3,6 +3,7 @@
 | Day                           |
 | ----------------------------- |
 | [Day 0](#day-0-july-4-2017)   |
+| [Day 1](#day-1-july-5-2017)   |
 
 ### Day 0: July 4, 2017
 
@@ -11,3 +12,11 @@
 **Thoughts:** I am afraid with not complete the challenge, but I will try to the end.
 
 **Link to work:** [100-days-of-code](https://github.com/quatroka/100-days-of-code)
+
+### Day 1: July 5, 2017
+
+**Today's Progress**: Organizing and studying the project
+
+**Thoughts:** The idea is to do a project with features of my day to day, and increase on-going. Starting with the podcast player / manager.
+
+**Link to work:** [quatroka-system](https://github.com/quatroka/quatroka-system)
