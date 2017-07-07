@@ -20,3 +20,11 @@
 **Thoughts:** The idea is to do a project with features of my day to day, and increase on-going. Starting with the podcast player / manager.
 
 **Link to work:** [quatroka-system](https://github.com/quatroka/quatroka-system)
+
+### Day 2: July 6, 2017
+
+**Today's Progress**: To err early to learn early
+
+**Thoughts:** Start with the Python API it's not a good plan, so I started again with learning and coding Angular2.
+
+**Link to work:** [quatroka-system](https://github.com/quatroka/quatroka-system)
