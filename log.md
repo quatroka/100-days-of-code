@@ -28,3 +28,11 @@
 **Thoughts:** Start with the Python API it's not a good plan, so I started again with learning and coding Angular2.
 
 **Link to work:** [quatroka-system](https://github.com/quatroka/quatroka-system)
+
+### Day 3: July 7, 2017
+
+**Today's Progress**: Focus in another thing while study
+
+**Thoughts:** Because I have no knowledge to advance the "cuatroka-system" project and not break the 100 days, I did URI exercises.
+
+**Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
