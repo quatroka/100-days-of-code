@@ -33,6 +33,6 @@
 
 **Today's Progress**: Focus in another thing while study
 
-**Thoughts:** Because I have no knowledge to advance the "cuatroka-system" project and not break the 100 days, I did URI exercises.
+**Thoughts:** Because I have no knowledge to advance the "quatroka-system" project and not break the 100 days, I did URI exercises.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
