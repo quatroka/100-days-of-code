@@ -36,3 +36,12 @@
 **Thoughts:** Because I have no knowledge to advance the "quatroka-system" project and not break the 100 days, I did URI exercises.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
+
+
+### Day 4: July 8, 2017
+
+**Today's Progress**: More Angular Study and URI exercises.
+
+**Thoughts:** More Angular Study and URI exercises.
+
+**Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
