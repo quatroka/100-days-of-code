@@ -53,3 +53,11 @@
 **Thoughts:** More Angular Study and URI exercises.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
+
+### Day 6: July 10, 2017
+
+**Today's Progress**: URI exercises only.
+
+**Thoughts:** URI exercises only.
+
+**Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
