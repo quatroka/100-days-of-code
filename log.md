@@ -70,3 +70,11 @@
 **Thoughts:** URI exercises only again.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
+
+### Day 8: July 12, 2017
+
+**Today's Progress**: URI exercises only again.
+
+**Thoughts:** URI exercises only again.
+
+**Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
