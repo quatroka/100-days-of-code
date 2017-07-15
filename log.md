@@ -86,3 +86,11 @@
 **Thoughts:** URI exercises only. Rank 2.838º.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
+
+### Day 10: July 14, 2017
+
+**Today's Progress**: URI exercises only again.
+
+**Thoughts:** URI exercises only. Rank  2.758º.
+
+**Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
