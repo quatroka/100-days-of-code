@@ -102,3 +102,11 @@
 **Thoughts:** URI exercises only. Rank  2.675º.
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
+
+### Day 11: July 15, 2017
+
+**Today's Progress**: Reset e start new layout of my blog.
+
+**Thoughts:** Bulma framework is awesome.
+
+**Link to work:** [Quatroka's Blog](https://github.com/quatroka/quatroka.github.io)
