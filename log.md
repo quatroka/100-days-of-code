@@ -103,7 +103,7 @@
 
 **Link to work:** [urionlinejudge](https://github.com/quatroka/urionlinejudge)
 
-### Day 11: July 15, 2017
+### Day 12: July 16, 2017
 
 **Today's Progress**: Reset e start new layout of my blog.
 
