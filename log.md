@@ -110,3 +110,11 @@
 **Thoughts:** Bulma framework is awesome.
 
 **Link to work:** [Quatroka's Blog](https://github.com/quatroka/quatroka.github.io)
+
+### Day 13: July 17, 2017
+
+**Today's Progress**: Added primary color, found and fixed bug on header and start off footer.
+
+**Thoughts:** Bulma framework is awesome².
+
+**Link to work:** [Quatroka's Blog](https://github.com/quatroka/quatroka.github.io)
