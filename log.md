@@ -1,9 +1,23 @@
 # 100 Days Of Code - Log
 
-| Day                           |
-| ----------------------------- |
-| [Day 0](#day-0-july-4-2017)   |
-| [Day 1](#day-1-july-5-2017)   |
+| Day                            |
+| ------------------------------ |
+| [Day 0](#day-0-july-4-2017)    |
+| [Day 1](#day-1-july-5-2017)    |
+| [Day 2](#day-2-july-6-2017)    |
+| [Day 3](#day-3-july-7-2017)    |
+| [Day 4](#day-4-july-8-2017)    |
+| [Day 5](#day-5-july-9-2017)    |
+| [Day 6](#day-6-july-10-2017)   |
+| [Day 7](#day-7-july-11-2017)   |
+| [Day 8](#day-8-july-12-2017)   |
+| [Day 9](#day-9-july-13-2017)   |
+| [Day 10](#day-10-july-14-2017) |
+| [Day 11](#day-11-july-15-2017) |
+| [Day 12](#day-12-july-16-2017) |
+| [Day 13](#day-13-july-17-2017) |
+| [Day 14](#day-14-july-18-2017) |
+
 
 ### Day 0: July 4, 2017
 
@@ -116,5 +130,13 @@
 **Today's Progress**: Added primary color, found and fixed bug on header and start off footer.
 
 **Thoughts:** Bulma framework is awesome².
+
+**Link to work:** [Quatroka's Blog](https://github.com/quatroka/quatroka.github.io)
+
+### Day 14: July 18, 2017
+
+**Today's Progress**: Improving some parts of layout, missing json feed and hightlight code
+
+**Thoughts:** Code hightlights to jekyll is not easy to create.
 
 **Link to work:** [Quatroka's Blog](https://github.com/quatroka/quatroka.github.io)
